@@ -1,0 +1,23 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Virtual Environment
+venv/
+.venv/
+Env/
+env/
+
+# Deep Learning weights & outputs
+runs/
